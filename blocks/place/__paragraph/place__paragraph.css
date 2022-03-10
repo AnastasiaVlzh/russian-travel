@@ -1,0 +1,6 @@
+.place__paragraph{
+    grid-area: paragraph;
+}
+.place__paragraph:first-child{
+    margin-bottom: 26px;
+}
