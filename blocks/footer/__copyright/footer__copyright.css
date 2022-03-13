@@ -2,7 +2,6 @@
     min-width: 186px;
     min-height: 16px;
     top: 6835px;
-    font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -11,7 +10,7 @@
     color: #FFFFFF;
     margin: 0;
 }
-@media screen and (max-width:425px){
+@media screen and (max-width:639px){
     .footer__copyright{
         max-width: 186px;
         min-height: 14px;

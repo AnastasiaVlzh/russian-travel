@@ -1,8 +1,7 @@
 .footer__link{
-    max-width: 50px;
+    max-width: 106px;
     min-height: 18px;
-    margin-right: 48px;
-    font-family: 'Inter';
+    margin-right: 18px;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -10,25 +9,12 @@
     color: #FFFFFF;
     text-decoration: none;
 }
-@media screen and (max-width:1024px) and (min-width:767px){
-    .footer__link{
-        margin-right: 18px;
-        max-width: 106px;
-    }
-}
-@media screen and (max-width:768px) and (min-width:709px){
-    .footer__link{
-        margin-right: 18px;
-        max-width: 106px;
-    }
-}
-@media screen and (max-width:709px) and (min-width:425px){
+@media screen and (max-width:709px) and (min-width:639px){
     .footer__link{
         margin-right: 8px;
-        max-width: 106px;
     }
 }
-@media screen and (max-width:425px){
+@media screen and (max-width:640px){
     .footer__link{
         margin-bottom: 32px;
     }
